@@ -6,3 +6,5 @@ git is free software.
 boss is shit.
 
 now i'm a new branch
+
+Creating a new branch is quick AND simple.
